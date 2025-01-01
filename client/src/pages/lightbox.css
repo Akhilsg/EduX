@@ -1,0 +1,16 @@
+.yarl__root {
+  --yarl__color_backdrop: rgba(20 26 33 / 0.9);
+}
+.yarl__slide_title {
+  font-size: 20px;
+  font-weight: 600;
+}
+.yarl__slide_description {
+  font-size: 14px;
+}
+.yarl__button {
+  filter: unset;
+}
+.yarl__thumbnails_vignette {
+  --yarl__thumbnails_vignette_size: 0;
+}
